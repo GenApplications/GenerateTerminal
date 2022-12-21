@@ -1,2 +1,2 @@
 # GenerateTerminal
-Open source Windows Command Prompt generator.
+Simple & open source Windows Command Prompt generator.
