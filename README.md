@@ -7,6 +7,7 @@ Simple & open source Windows Command Prompt generator.
 ### Upcoming features:
 - API, plugins, themes
 - Enable/disable features
+- Download terminals
 - Admin dashboard
 - Mobile app
 - Ability to change the homepage
