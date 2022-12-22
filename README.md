@@ -1,4 +1,5 @@
-# GenerateTerminal
+![This is an image](logo.svg)
+
 Simple & open source Windows Command Prompt generator.
 
 [![AppVeyor](https://img.shields.io/badge/Licence-UnLicense-orange)](LICENSE)
