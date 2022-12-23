@@ -1,8 +1,13 @@
+    <h1 align="center">
+  <br>
+  <a href="https://fossbilling.org/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SpotyHost/GenerateTerminal/445655bbb7cee815447ec03485dc62023a6345b8/default-monochrome-white.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SpotyHost/GenerateTerminal/445655bbb7cee815447ec03485dc62023a6345b8/default monochrome-white.svg">
       <img alt="Generateterminal logo" src="https://raw.githubusercontent.com/SpotyHost/GenerateTerminal/445655bbb7cee815447ec03485dc62023a6345b8/logo.svg" height="100">
     </picture>
-    
+  </a>
+  <br>
+</h1>
 Simple & open source Windows Command Prompt generator.
 
 [![AppVeyor](https://img.shields.io/badge/Licence-UnLicense-orange)](LICENSE)
