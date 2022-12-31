@@ -8,7 +8,9 @@
   </a>
   <br>
 </h1>
-Simple & open source Windows Command Prompt generator.
+Simple & open source Windows Command Prompt generator. A Windows Command Prompt generator is a tool that allows you to create and customize command prompt scripts for Windows. These scripts can be used to automate various tasks, such as managing files, running programs, and configuring system settings.
+
+One advantage of using a simple and open source Command Prompt generator is that it is easy to use and customize, even for those who are new to scripting or are not familiar with the Windows Command Prompt. Additionally, because it is open source, you have the freedom to modify and distribute the tool according to your needs.
 
 [![AppVeyor](https://img.shields.io/badge/Licence-UnLicense-orange)](LICENSE)
 [![AppVeyor](https://img.shields.io/badge/Version-v0.1.0-informational)](https://github.com/spotyhost/generateterminal/releases/latest)
