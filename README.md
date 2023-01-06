@@ -8,8 +8,12 @@
   </a>
   <br>
 </h1>
-Simple & open source Windows Command Prompt generator. A Windows Command Prompt generator is a tool that allows you to create and customize terminals for Windows.  Additionally, because it is open source, you have the freedom to modify and distribute the tool according to your needs.
-
+Simple & open source Windows Command Prompt generator. A Windows Command Prompt generator is a tool that allows you to create and customize terminals for Windows. 
+<br>
+Additionally, because it is open source, you have the freedom to modify and distribute the tool according to your needs.
+<br>
+Want to host your own video sharing website? Check out <a href="https://github.com/GenerateTerminal/FreeBucket">FreeBucket</a>.
+<br>
 [![AppVeyor](https://img.shields.io/badge/Licence-UnLicense-orange)](LICENSE)
 [![AppVeyor](https://img.shields.io/badge/Version-v0.1.0-informational)](https://github.com/spotyhost/generateterminal/releases/latest)
 ![AppVeyor](https://img.shields.io/badge/Build-Passed-brightgreen)
