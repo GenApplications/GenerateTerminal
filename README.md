@@ -14,6 +14,9 @@ Additionally, because it is open source, you have the freedom to modify and dist
 <br>
 Want to host your own video sharing website? Check out <a href="https://github.com/GenerateTerminal/FreeBucket">FreeBucket</a>.
 <br>
+
+
+
 [![AppVeyor](https://img.shields.io/badge/Licence-UnLicense-orange)](LICENSE)
 [![AppVeyor](https://img.shields.io/badge/Version-v0.1.0-informational)](https://github.com/spotyhost/generateterminal/releases/latest)
 ![AppVeyor](https://img.shields.io/badge/Build-Passed-brightgreen)
