@@ -11,21 +11,19 @@
 Simple & open source Windows Command Prompt generator. A Windows Command Prompt generator is a tool that allows you to create and customize terminals for Windows. 
 <br>
 Additionally, because it is open source, you have the freedom to modify and distribute the tool according to your needs.
-<br>
-Want to host your own video sharing website? Check out <a href="https://github.com/GenerateTerminal/FreeBucket">FreeBucket</a>.
-<br>
+
 
 
 
 [![AppVeyor](https://img.shields.io/badge/Licence-UnLicense-orange)](LICENSE)
-[![AppVeyor](https://img.shields.io/badge/Version-v0.1.0-informational)](https://github.com/spotyhost/generateterminal/releases/latest)
+[![AppVeyor](https://img.shields.io/badge/Version-v0.1.1-informational)](https://github.com/spotyhost/generateterminal/releases/latest)
 ![AppVeyor](https://img.shields.io/badge/Build-Passed-brightgreen)
 ![AppVeyor](https://img.shields.io/badge/Interface-Bootstrap-lightgreen)
 ![AppVeyor](https://img.shields.io/badge/Development-In_Progress-lightgreen)
 ![AppVeyor](https://img.shields.io/badge/Dependencies-PHP-red)
 
 ### Current features:
-- Make terminals with colors, custom name/version, your own branding, & more
+- Make terminals with colors, custom name/version, your own branding, GenerateApps& more
 - Custom notifications, branding, advert code
 - Built-in homepage
 
