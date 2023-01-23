@@ -1,7 +1,7 @@
 <?php
-$gcmdname = "<script> alert(window.origin); </script> ";
+$gcmdname = "GenerateTerminal";
 $gcmdowner = "JohnDoe";
 $gcmdlogo = "image.svg";
-$gcmdfwhlink = "http://myownfreehost.net";
+$gcmdfwhlink = "";
 $gcmdadcode = "<!-- REPLACE WITH YOUR OWN AD CODE. PHP & HTML IS SUPPORTED. -->";
 ?>
