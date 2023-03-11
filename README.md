@@ -23,8 +23,8 @@ Additionally, because it is open source, you have the freedom to modify and dist
 ![AppVeyor](https://img.shields.io/badge/Dependencies-PHP-red)
 
 ### Current features:
-- Make terminals with colors, custom name/version, your own branding, GenerateApps& more
-- Custom notifications, branding, advert code
+- Make terminals with colors, custom name/version, your own branding, & more
+- Custom branding, advert code
 - Built-in homepage
 
 ### Upcoming features:
