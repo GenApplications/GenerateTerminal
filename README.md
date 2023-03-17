@@ -8,7 +8,7 @@
   </a>
   <br>
 </h1>
-Simple & open source Windows Command Prompt generator. A Windows Command Prompt generator is a tool that allows you to create and customize terminals for Windows. 
+GenerateTerminal is a simple & open source Windows Command Prompt generator. A Windows Command Prompt generator is a tool that allows you to create and customize terminals for Windows. 
 <br>
 Additionally, because it is open source, you have the freedom to modify and distribute the tool according to your needs.
 
