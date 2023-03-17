@@ -1,21 +1,10 @@
-<h1 align="center">
-  <br>
-  <a href="https://fossbilling.org/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SpotyHost/GenerateTerminal/445655bbb7cee815447ec03485dc62023a6345b8/default monochrome-white.svg">
-      <img alt="Generateterminal logo" src="https://raw.githubusercontent.com/SpotyHost/GenerateTerminal/445655bbb7cee815447ec03485dc62023a6345b8/logo.svg" height="100">
-    </picture>
-  </a>
-  <br>
-</h1>
-GenerateTerminal is a simple & open source Windows Command Prompt generator. A Windows Command Prompt generator is a tool that allows you to create and customize terminals for Windows. 
-<br>
-Additionally, because it is open source, you have the freedom to modify and distribute the tool according to your needs.
+<center><img alt="Generateterminal logo" src="https://raw.githubusercontent.com/SpotyHost/GenerateTerminal/445655bbb7cee815447ec03485dc62023a6345b8/logo.svg" height="100"></center>
+GenerateTerminal is a simple & open source Windows Command Prompt generator. It allows you to create and customize terminals for Windows. 
+<hr>
 
 
 
-
-[![AppVeyor](https://img.shields.io/badge/Licence-UnLicense-orange)](LICENSE)
+[![AppVeyor](https://img.shields.io/badge/License-Unlicense-orange)](LICENSE)
 [![AppVeyor](https://img.shields.io/badge/Version-v0.1.1-informational)](https://github.com/spotyhost/generateterminal/releases/latest)
 ![AppVeyor](https://img.shields.io/badge/Build-Passed-brightgreen)
 ![AppVeyor](https://img.shields.io/badge/Interface-Bootstrap-lightgreen)
