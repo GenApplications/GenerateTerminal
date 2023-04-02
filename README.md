@@ -1,5 +1,3 @@
-
-<h1> <i> WARNING: GenerateTerminal is no longer actively maintained to focus on other projects. You can still download it. </i> </h1>
 <center><img alt="Generateterminal logo" src="https://raw.githubusercontent.com/SpotyHost/GenerateTerminal/445655bbb7cee815447ec03485dc62023a6345b8/logo.svg" height="100"></center>
 GenerateTerminal is a simple & open source Windows Command Prompt generator. It allows you to create and customize terminals for Windows. 
 <hr>
